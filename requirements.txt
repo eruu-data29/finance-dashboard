@@ -1,0 +1,16 @@
+streamlit
+numpy
+pandas
+scikit-learn
+nltk
+transformers
+torch
+tensorflow
+openai
+plotly
+beautifulsoup4
+requests
+statsmodels
+xgboost
+lightgbm
+prophet
